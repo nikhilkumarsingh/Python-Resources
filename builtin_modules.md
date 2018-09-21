@@ -1,6 +1,6 @@
 # Important built-in Python modules (category-wise)
 
-## Libraries for handling different file formats:
+## File utilities:
 
 - [csv](https://docs.python.org/3/library/csv.html)		Write and read tabular data to and from delimited files.
 - [json](https://docs.python.org/3/library/json.html)		Encode and decode the JSON format.
@@ -43,7 +43,7 @@
 - [threading](https://docs.python.org/3/library/threading.html)			Thread-based parallelism.
 
 
-## Networking:
+## Networking utilities:
 
 - [html](https://docs.python.org/3/library/html.html)			Helpers for manipulating HTML.
 - [http](https://docs.python.org/3/library/http.html)			HTTP status codes and messages
@@ -59,7 +59,7 @@
 - [wsgiref](https://docs.python.org/3/library/wsgiref.html)		WSGI Utilities and Reference Implementation.
 
 
-## Emailing:
+## Email utilities:
 
 - [email](https://docs.python.org/3/library/email.html)		Package supporting the parsing, manipulating, and generating email messages.
 - [smtplib](https://docs.python.org/3/library/smtplib.html)	SMTP protocol client (requires sockets).
@@ -68,7 +68,7 @@
 - [imaplib](https://docs.python.org/3/library/imaplib.html)	IMAP4 protocol client (requires sockets).
 
 
-## Data structures, functions, memory management:
+## Data structures, functions, memory management utilities:
 
 - [string](https://docs.python.org/3/library/string.html)		Common string operations.
 - [collections](https://docs.python.org/3/library/collections.html)	Container datatypes
@@ -84,7 +84,7 @@
 - [copy](https://docs.python.org/3/library/copy.html)			Shallow and deep copy operations.
 
 
-## User I/O:
+## User I/O utilities:
 
 - [argparse](https://docs.python.org/3/library/argparse.html)	Command-line option and argument parsing library.
 - [getpass](https://docs.python.org/3/library/getpass.html)	Portable reading of passwords and retrieval of the userid.
